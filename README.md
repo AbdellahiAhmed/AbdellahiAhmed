@@ -1,64 +1,44 @@
-## Hey 👋, I'm Abdellahi!
-<a href='https://www.linkedin.com/in/YOUR_LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/YOUR_TWITTER/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://github.com/YOUR_GITHUB/'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+<h2 align="left">
+  <abc>
+    <br>Salam! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+    <br> I'm Abdellahi Ahmed, Network Engineering Student & Aspiring Fullstack Developer 👨‍💻<br>
+    <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  </abc>
+</h2> 
 
-I'm a passionate learner and builder from Mauritania 🇲🇷, pursuing a degree in **Réseaux Informatiques et Télécommunications**. My dream is to become a **Linux-savvy Network Administrator 🧠**, a **Full-Stack Developer 🧑‍💻**, and eventually a **Cybersecurity Engineer 🛡️**. I love taking on challenges that push me beyond my limits and bring value to people around me.
+<h2 align="left">🛠️ Technologies and Tools I'm Learning and Using:</h2>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.cisco.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.packettracer.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cisco_packet_tracer_icon.svg/512px-Cisco_packet_tracer_icon.svg.png" alt="Packet Tracer" width="40" height="40"/> </a>
+</p>
 
-<br/><br/>
+<h2 align="left">👨‍💻 About Me:</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+- 🧑‍🎓 2nd-year student in **Réseaux Informatiques et Télécommunications**
+- 💡 Passionate about Networking, Linux, and Fullstack Web Development
+- 📶 Training at **Mauritel** on advanced network management and project development
+- 🎯 Main Goals: 
+  - Become a professional **Network Administrator**
+  - Master **Python, Java, and Angular**
+  - Build smart projects like **LiveLAN** for real-time network mapping
+- 🌍 From Nouakchott, Mauritania 🇲🇷
+- 📜 Certified in **CCNA** (iiinetworking & others)
+- 🌱 Currently learning: Advanced Routing, GSM, Linux Server Admin, and Angular
+- 🧠 Life Hack: “Discipline beats motivation every time.”
 
-### 🧐 More About Me:
-- 🚀 I'm currently doing a summer internship at **Mauritel**
-- 🧠 I’m developing a live network mapping and monitoring project (**LiveLAN**) using Python + Nmap + web dashboard
-- 🌐 I love everything about Linux, Networking (CCNA), Full Stack Development, and Security
-- 📘 I’m studying to become top of my university in Networking and Programming
-- 💬 Ask me anything about Python, Java, Linux, Routing & Switching, or CCNA – I’m always ready to share and learn
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 📜 I’m also working to become fluent in both English and French 🇬🇧 🇫🇷
+<h2 align="left">🤝 Let’s Connect:</h2>
 
----
-
-### 🛠️ Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
-<a href="https://www.cisco.com/" target="_blank"><img align="left" alt="Cisco" height="42px" src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg"></a>
-
-<br/><br/><br/>
-
----
-
-### 📊 GitHub Stats
-
-![Abdellahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent)
-
----
-
-### 🧠 Featured Projects
-<a href="https://github.com/YOUR_GITHUB_USERNAME/LiveLAN" target="_blank"> <img alt="LiveLAN" src="./projects/livelan.svg" height="68" align="left"> </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ccna-practice-labs" target="_blank"> <img alt="CCNA Labs" src="./projects/ccna.svg"  height="68" align="left"> </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/angular-login-app" target="_blank"> <img alt="Angular Login" src="./projects/angularlogin.svg" height="68" align="left"> </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/python-scan-tools" target="_blank"> <img alt="Network Scanner" src="./projects/nmap.svg" height="68" align="left"> </a>
-
----
-
-### ☁️ Future Goals
-- 💻 Build a strong portfolio in networking and web development
-- 📈 Launch my own SaaS tool or open-source contribution
-- 🧑‍🏫 Share tutorials and guides for other students in Mauritania
-- 🎓 Earn my Cisco and Linux certifications
-- 🚀 Get a job or freelance gig in network administration or full-stack development
-
----
-
-> **"Hard work beats talent when talent doesn’t work hard."** — *Stay consistent and hungry for growth.*
-
+[![LinkedIn Badge](https://img.shields.io/badge/-Abdellahi%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/your-link)
+[![Twitter Badge](https://img.shields.io/badge/-@yourhandle-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
+[![Facebook Badge](https://img.shields.io/badge/-Abdellahi-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/yourpage)](https://facebook.com/yourpage)
+[![GitHub Badge](https://img.shields.io/badge/-@Abdellahi-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/yourusername)
+[![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-orange?style=flat-square&logo=appveyor&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
