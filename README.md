@@ -37,8 +37,8 @@
 
 <h2 align="left">🤝 Let’s Connect:</h2>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Abdellahi%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/your-link)
+[![LinkedIn Badge](https://img.shields.io/badge/-Abdellahi%20Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdellahiahmedahmedbaba)](https://www.linkedin.com/in/abdellahiahmedahmedbaba)
 [![Twitter Badge](https://img.shields.io/badge/-@yourhandle-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
-[![Facebook Badge](https://img.shields.io/badge/-Abdellahi-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/yourpage)](https://facebook.com/yourpage)
-[![GitHub Badge](https://img.shields.io/badge/-@Abdellahi-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/yourusername)
+[![Facebook Badge](https://img.shields.io/badge/-Abdellahi-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/AbdellahiRT)](https://facebook.com/AbdellahiRT)
+[![GitHub Badge](https://img.shields.io/badge/-@Abdellahi-black?style=flat-square&logo=github&logoColor=white&link=https://[[github.com/abdellahiahmedahmedbaba](https://github.com/AbdellahiAhmed/)](https://github.com/AbdellahiAhmed/))](https://[github.com/](https://github.com/AbdellahiAhmed/))
 [![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-orange?style=flat-square&logo=appveyor&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
