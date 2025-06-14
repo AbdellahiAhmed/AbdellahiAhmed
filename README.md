@@ -23,13 +23,13 @@
 
 <h2 align="left">👨‍💻 About Me:</h2>
 
-- 🧑‍🎓 2nd-year student in **Réseaux Informatiques et Télécommunications**
+- 🧑‍🎓 3rd-year student in **Réseaux Informatiques et Télécommunications**
 - 💡 Passionate about Networking, Linux, and Fullstack Web Development
 - 📶 Training at **Mauritel** on advanced network management and project development
 - 🎯 Main Goals: 
   - Become a professional **Network Administrator**
   - Master **Python, Java, and Angular**
-  - Build smart projects like **LiveLAN** for real-time network mapping
+  - Build smart projects like **AutoNetConfig** for real-time network mapping
 - 🌍 From Nouakchott, Mauritania 🇲🇷
 - 📜 Certified in **CCNA** (iiinetworking & others)
 - 🌱 Currently learning: Advanced Routing, GSM, Linux Server Admin, and Angular
