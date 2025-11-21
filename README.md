@@ -1,6 +1,6 @@
 ## Salam! 👋
 
-I'm **Abdellahi Ahmed**, Network Engineering Student & Aspiring Fullstack Developer 👨‍💻  
+I'm **Abdellahi Ahmed**, Network Engineering Student & Fullstack Developer 👨‍💻  
 
 ![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -10,7 +10,7 @@ I'm **Abdellahi Ahmed**, Network Engineering Student & Aspiring Fullstack Develo
 
 ### 🔧 Networking & Systems  
 - Cisco (Routing & Switching)  
-- Packet Tracer • GNS3 • Wireshark  
+- Packet Tracer • EVE-NG • GNS3 • Wireshark  
 - Linux Server Administration  
 - GSM & Telecom Basics  
 
@@ -32,7 +32,7 @@ I'm **Abdellahi Ahmed**, Network Engineering Student & Aspiring Fullstack Develo
 ### 🛠 Tools  
 - Git & GitHub  
 - Figma  
-- Docker (beginner)
+- Docker
 
 ---
 
@@ -40,7 +40,7 @@ I'm **Abdellahi Ahmed**, Network Engineering Student & Aspiring Fullstack Develo
 
 🧑‍🎓 3rd-year student in **Réseaux Informatiques et Télécommunications**  
 💡 Passionate about **Networking, Linux, Fullstack & Mobile Development**  
-📶 Training at **Mauritel** on advanced network management & project development  
+📶 Trained at **Mauritel** on advanced network management & project development  
 
 ### 🎯 Main Goals:
 - Become a professional **Network Administrator**  
@@ -57,10 +57,8 @@ I'm **Abdellahi Ahmed**, Network Engineering Student & Aspiring Fullstack Develo
 
 ## 🤝 Let’s Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdellahi_Ahmed-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](#)  
-[![Facebook](https://img.shields.io/badge/Facebook-Abdellahi-blue?style=for-the-badge&logo=facebook)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdellahi_Ahmed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdellahiahmedahmedbaba/)  
 [![GitHub](https://img.shields.io/badge/GitHub-AbdellahiAhmed-black?style=for-the-badge&logo=github)](https://github.com/AbdellahiAhmed)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://AbdellahiAhmed.vercel.app)
 
 ---
