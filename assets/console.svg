@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="t d">
+  <title id="t">Abdellahi Ahmed, as seen from a router console</title>
+  <desc id="d">show version: Abdellahi Ahmed, Software, Network and Security Engineer. Interfaces software, network and security are up. Mission: build, run and secure the systems businesses depend on. Open to new roles.</desc>
+  <defs>
+    <style>
+      .m { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 17px; }
+      .p { fill: #f59e0b; } .c { fill: #f8fafc; } .o { fill: #cbd5e1; } .dim { fill: #64748b; } .up { fill: #22c55e; } .hi { fill: #38bdf8; }
+      .l { opacity: 0; animation: show .01s linear forwards; }
+      @keyframes show { to { opacity: 1 } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+    </style>
+    <!-- One clip per typed command, growing left to right -->
+    <clipPath id="k1"><rect x="194" y="96" height="30" width="0"><animate attributeName="width" from="0" to="760" begin=".4s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="k2"><rect x="194" y="208" height="30" width="0"><animate attributeName="width" from="0" to="760" begin="2.2s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="k3"><rect x="194" y="384" height="30" width="0"><animate attributeName="width" from="0" to="760" begin="4.4s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="k4"><rect x="194" y="464" height="30" width="0"><animate attributeName="width" from="0" to="760" begin="6.2s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="k5"><rect x="194" y="544" height="30" width="0"><animate attributeName="width" from="0" to="760" begin="8.0s" dur="0.9s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="660" rx="16" fill="#0b1120"/>
+  <rect width="1200" height="44" rx="16" fill="#111a2e"/>
+  <rect y="28" width="1200" height="16" fill="#111a2e"/>
+  <circle cx="26" cy="22" r="7" fill="#f87171"/><circle cx="50" cy="22" r="7" fill="#fbbf24"/><circle cx="74" cy="22" r="7" fill="#34d399"/>
+  <text x="600" y="28" text-anchor="middle" class="m dim" font-size="14">ssh abdellahi@edge-rtr-01 · Nouakchott ⇄ Tunis</text>
+
+  <!-- show version -->
+  <text x="40" y="118" class="m"><tspan class="p">Abdellahi-RTR#</tspan></text>
+  <text x="196" y="118" class="m c" clip-path="url(#k1)">show version</text>
+  <g class="l" style="animation-delay:1.4s">
+    <text x="64" y="150" class="m c">Abdellahi Ahmed <tspan class="dim">·</tspan> Software, Network &amp; Security Engineer</text>
+    <text x="64" y="178" class="m o">Full-Stack Developer at MCS Consulting <tspan class="dim">·</tspan> MSc candidate, ISI Tunis <tspan class="dim">·</tspan> AR · FR · EN</text>
+  </g>
+
+  <!-- show ip interface brief -->
+  <text x="40" y="230" class="m"><tspan class="p">Abdellahi-RTR#</tspan></text>
+  <text x="196" y="230" class="m c" clip-path="url(#k2)">show ip interface brief</text>
+  <g class="l" style="animation-delay:3.2s">
+    <text x="64" y="262" class="m dim">Interface<tspan x="208">Status</tspan><tspan x="298">Protocol</tspan><tspan x="408">Description</tspan></text>
+  </g>
+  <g class="l" style="animation-delay:3.5s">
+    <text x="64" y="292" class="m"><tspan class="hi">Software</tspan><tspan x="208" class="up">up</tspan><tspan x="298" class="up">up</tspan><tspan x="408" class="o">Business systems · web &amp; mobile · ERP · Arabic RTL</tspan></text>
+  </g>
+  <g class="l" style="animation-delay:3.8s">
+    <text x="64" y="322" class="m"><tspan class="hi">Network</tspan><tspan x="208" class="up">up</tspan><tspan x="298" class="up">up</tspan><tspan x="408" class="o">Routing &amp; switching · EVE-NG · Python automation</tspan></text>
+  </g>
+  <g class="l" style="animation-delay:4.1s">
+    <text x="64" y="352" class="m"><tspan class="hi">Security</tspan><tspan x="208" class="up">up</tspan><tspan x="298" class="up">up</tspan><tspan x="408" class="o">Access control · 2FA · audit trails · encrypted backups</tspan></text>
+  </g>
+
+  <!-- mission -->
+  <text x="40" y="406" class="m"><tspan class="p">Abdellahi-RTR#</tspan></text>
+  <text x="196" y="406" class="m c" clip-path="url(#k3)">show running-config | include mission</text>
+  <g class="l" style="animation-delay:5.5s">
+    <text x="64" y="438" class="m"> <tspan class="dim">mission</tspan> <tspan fill="#fbbf24">"build, run and secure the systems businesses depend on"</tspan></text>
+  </g>
+
+  <!-- policy -->
+  <text x="40" y="486" class="m"><tspan class="p">Abdellahi-RTR#</tspan></text>
+  <text x="196" y="486" class="m c" clip-path="url(#k4)">show policy foundations</text>
+  <g class="l" style="animation-delay:7.3s">
+    <text x="64" y="518" class="m o"><tspan class="dim">data</tspan> stays correct   <tspan class="dim">money</tspan> counted once   <tspan class="dim">access</tspan> exactly right   <tspan class="dim">releases</tspan> checked first</text>
+  </g>
+
+  <!-- ping -->
+  <text x="40" y="566" class="m"><tspan class="p">Abdellahi-RTR#</tspan></text>
+  <text x="196" y="566" class="m c" clip-path="url(#k5)">ping recruiter</text>
+  <g class="l" style="animation-delay:9.1s">
+    <text x="64" y="598" class="m"><tspan class="up">!!!!!</tspan> <tspan class="o">Success rate is 100 percent (5/5) — open to new roles</tspan></text>
+  </g>
+  <g class="l" style="animation-delay:9.6s">
+    <text x="40" y="628" class="m"><tspan class="p">Abdellahi-RTR#</tspan> <tspan class="c cursor">█</tspan></text>
+  </g>
+</svg>
