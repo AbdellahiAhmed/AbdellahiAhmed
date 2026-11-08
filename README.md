@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="" />
+<p align="center"><img src="assets/developer.gif" width="560" alt="A developer at his desk, writing code across two screens and a laptop" /></p>
 
 <br/>
 
@@ -17,3 +17,5 @@ I came to software through networks. Today I take business systems from the firs
 <a href="https://abdellahiahmed.vercel.app/cv.pdf"><img src="https://img.shields.io/badge/CV-0b0d12?style=for-the-badge&logo=readthedocs&logoColor=f5b544" alt="CV" /></a>
 <a href="mailto:abdellahiahmedahmedbaba@gmail.com"><img src="https://img.shields.io/badge/Email-0b0d12?style=for-the-badge&logo=gmail&logoColor=f5b544" alt="Email" /></a>
 </p>
+
+<sub>Illustration: “Developer at work” by Emad Moradian, LottieFiles (Lottie Simple License).</sub>
