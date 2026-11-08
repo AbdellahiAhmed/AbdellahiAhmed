@@ -77,13 +77,11 @@ Also delivered: custom Dolibarr ERP modules (manufacturing, fleet and fuel), a p
 
 Tools change, and with AI they change faster than ever. My foundation doesn't:
 
-| | |
-|---|---|
-| **Data** | stays correct, years later |
-| **Money** | is counted exactly once |
-| **Access** | is exactly right for each role |
-| **Backups** | can actually be restored |
-| **Releases** | never go out before they have been checked |
+- **Data** stays correct, years later.
+- **Money** is counted exactly once.
+- **Access** is exactly right for each role.
+- **Backups** can actually be restored.
+- **Releases** never go out before they have been checked.
 
 ## Right now
 
