@@ -18,16 +18,30 @@
 
 <br/>
 
+<h3 align="center">Toolbox</h3>
+
 <p align="center"><img src="https://skillicons.dev/icons?i=laravel,php,react,ts,flutter,spring,python,mysql,postgres,docker,linux,nginx,githubactions&perline=13" alt="Laravel, PHP, React, TypeScript, Flutter, Spring, Python, MySQL, PostgreSQL, Docker, Linux, Nginx, GitHub Actions" /></p>
+
+<h3 align="center">Right now</h3>
+
+<p align="center">
+Full-Stack Developer at <b>MCS Consulting</b>, building business software for client companies<br/>
+Master's student at <b>ISI Tunis</b> · works in Arabic, French and English<br/>
+Open to new roles where software, network and security meet
+</p>
+
+<br/>
+
+<p align="center">
+<a href="https://abdellahiahmed.vercel.app" title="Portfolio"><img src="assets/icons/vercel.svg" width="44" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdellahiahmedahmedbaba/" title="LinkedIn"><img src="assets/icons/linkedin.svg" width="44" alt="LinkedIn" /></a>&nbsp;
+<a href="https://x.com/AbdellahiABaba" title="X"><img src="assets/icons/x.svg" width="44" alt="X" /></a>&nbsp;
+<a href="https://abdellahiahmed.vercel.app/cv.pdf" title="CV"><img src="assets/icons/cv.svg" width="44" alt="CV" /></a>&nbsp;
+<a href="mailto:abdellahiahmedahmedbaba@gmail.com" title="Email"><img src="assets/icons/gmail.svg" width="44" alt="Email" /></a>
+</p>
 
 <p align="center"><sub>Most of my work lives in private client repositories. The public side is on my portfolio.</sub></p>
 
-<p align="center">
-<a href="https://abdellahiahmed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4A7CF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdellahiahmedahmedbaba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/AbdellahiABaba"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://abdellahiahmed.vercel.app/cv.pdf"><img src="https://img.shields.io/badge/CV-1F2937?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
-<a href="mailto:abdellahiahmedahmedbaba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br/>
 
 <p align="center"><sub>Illustration by <a href="https://storyset.com/web">Storyset</a></sub></p>
