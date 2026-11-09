@@ -20,7 +20,7 @@
 
 <p align="center">
 Full-Stack Developer at <b>MCS Consulting</b>, building business software for client companies<br/>
-Master's student at <b>ISI Tunis</b> · works in Arabic, French and English<br/>
+Master's student at <b>ISI Tunis</b>, coming from a background in networks and security<br/>
 Open to new roles where software, network and security meet
 </p>
 
