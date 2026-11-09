@@ -27,7 +27,7 @@ Open to new roles where software, network and security meet
 <br/>
 
 <p align="center">
-<a href="https://abdellahiahmed.vercel.app" title="Portfolio"><img src="assets/icons/vercel.svg" width="44" alt="Portfolio" /></a>&nbsp;
+<a href="https://abdellahiahmed.vercel.app" title="Portfolio"><img src="assets/icons/portfolio.svg" width="44" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abdellahiahmedahmedbaba/" title="LinkedIn"><img src="assets/icons/linkedin.svg" width="44" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/AbdellahiABaba" title="X"><img src="assets/icons/x.svg" width="44" alt="X" /></a>&nbsp;
 <a href="https://abdellahiahmed.vercel.app/cv.pdf" title="CV"><img src="assets/icons/cv.svg" width="44" alt="CV" /></a>&nbsp;
@@ -38,4 +38,3 @@ Open to new roles where software, network and security meet
 
 <br/>
 
-<p align="center"><sub>Illustration by <a href="https://storyset.com/web">Storyset</a></sub></p>
