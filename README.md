@@ -8,13 +8,7 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="33%" valign="top"><h3>Build</h3>Business software people use every day: web, mobile, Arabic and French, from the first client meeting to go-live.</td>
-<td width="33%" valign="top"><h3>Run</h3>Networks and servers that stay up: routing, switching, lab-tested changes and automation in Python.</td>
-<td width="33%" valign="top"><h3>Secure</h3>Access that is exactly right, audit trails that answer "who did what", and backups that actually restore.</td>
-</tr>
-</table>
+<img src="assets/pillars.svg" width="100%" alt="Build: business software people use every day. Run: networks and servers that stay up. Secure: access that is exactly right, audit trails and backups that actually restore." />
 
 <br/>
 
